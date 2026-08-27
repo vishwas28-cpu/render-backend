@@ -1,4 +1,6 @@
 
+Bilkul. Agar ye repository tumne **Render deployment practice** ke liye banayi hai, toh README.md me ye simple content use kar sakte ho:
+
 # Render Deployment Practice 🚀
 
 ## About This Repository
@@ -18,6 +20,8 @@ This repository was created to practice deploying a Node.js and Express.js backe
 ## Installation
 
 Clone the repository and install dependencies:
+
+```bash
 npm install
 ```
 
@@ -25,6 +29,7 @@ npm install
 
 Start the server using:
 
+```bash 
 node index.js
 ```
 
